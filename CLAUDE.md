@@ -51,3 +51,15 @@ When assisting with code:
 ## Project Goal
 
 Learn AI-assisted frontend engineering while following modern React and TypeScript best practices.
+
+
+
+## Project Rules
+
+- All forms must use controlled React components with TypeScript.
+
+- Every required input must provide inline validation and meaningful error messages.
+
+- Every form element must have an associated accessible label `htmlFor` and `id`) and appropriate ARIA attributes when needed.
+
+- Verify AI-generated code before committing by checking functionality, accessibility, and edge cases.
